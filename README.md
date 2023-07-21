@@ -1,4 +1,13 @@
-In this project, work on **European Soccer Database**. In this database,data of over 25000 matches, 10000 players, 11 European countries with their lead championships, seasons 2008 to 2016, team lineups with squad formation (X, Y coordinates), betting odds from up to 10 providers, detailed match events like fouls, possessions, corners, etc. 
+uploaed html , ipynb and pdf file for the same atttached for the reference.  
+
+
+
+
+
+
+
+
+In this project, work on #European Soccer Database**. In this database,data of over 25000 matches, 10000 players, 11 European countries with their lead championships, seasons 2008 to 2016, team lineups with squad formation (X, Y coordinates), betting odds from up to 10 providers, detailed match events like fouls, possessions, corners, etc. 
 
 
 
