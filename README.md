@@ -1,6 +1,4 @@
-uploaed html , ipynb and pdf file for the same atttached for the reference.  
-
-
+uploaded html , ipynb and pdf file for the same atttached for the reference.  
 
 
 
